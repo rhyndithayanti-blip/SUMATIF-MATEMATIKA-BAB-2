@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif Matematika Kelas IV",
+  "description": "Aplikasi Tes Sumatif Matematika Kelas IV SD Negeri 3 Loloan Timur - Materi Mengenal Pecahan, Membandingkan 2 Pecahan, Pecahan Desimal & Persen, serta Penjumlahan & Pengurangan Pecahan dengan soal bergambar, sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
